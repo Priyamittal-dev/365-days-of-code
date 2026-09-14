@@ -1,6 +1,6 @@
 # 🚀 365 Days of Code — Software Engineering Showcase
 
-![Progress](https://img.shields.io/badge/Progress-14%20%2F%20365%20Days-brightgreen?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-15%20%2F%20365%20Days-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Daily%20Commit-Active-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
 
@@ -16,11 +16,12 @@ A daily software engineering challenge dedicated to building clean, practical mi
 ---
 
 ## 📊 Progress Dashboard
-- **Completed**: `14 / 365` projects (3.8%)
-- **Last Updated**: `2026-09-13 05:00 UTC`
+- **Completed**: `15 / 365` projects (4.1%)
+- **Last Updated**: `2026-09-14 03:29 UTC`
 
 | Day | Project Title | Tech Stack | Concepts / Tags | Code Link |
 | :--- | :--- | :--- | :--- | :--- |
+| **Day 015** | [Token Bucket Rate Limiter (TypeScript)](./projects/day-015-typescript_fullstack-rate-limiter) | `TypeScript Full-Stack & Developer Tooling` | `rate-limiting` `security` `algorithms` | [View Code](./projects/day-015-typescript_fullstack-rate-limiter) |
 | **Day 014** | [Token Bucket Rate Limiter (Go)](./projects/day-014-golang-rate-limiter) | `Go (Golang) Concurrent Systems & CLI` | `rate-limiting` `security` `algorithms` | [View Code](./projects/day-014-golang-rate-limiter) |
 | **Day 013** | [Token Bucket Rate Limiter (Python)](./projects/day-013-python-rate-limiter) | `Python / FastAPI / Async Systems` | `rate-limiting` `security` `algorithms` | [View Code](./projects/day-013-python-rate-limiter) |
 | **Day 012** | [Token Bucket Rate Limiter (PHP)](./projects/day-012-php-rate-limiter) | `PHP Modern (OOP & Micro-Service)` | `rate-limiting` `security` `algorithms` | [View Code](./projects/day-012-php-rate-limiter) |
