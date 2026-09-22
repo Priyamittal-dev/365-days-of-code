@@ -481,5 +481,26 @@
       "performance"
     ],
     "generated_at": "2026-09-21T03:26:33.176608+00:00"
+  },
+  {
+    "day": 24,
+    "title": "Token Bucket Rate Limiter (Go)",
+    "slug": "golang-rate-limiter",
+    "tech_stack": "Go (Golang) Concurrent Systems & CLI",
+    "difficulty": "Intermediate",
+    "summary": "A resilient, thread-safe token-bucket rate limiting engine implemented in Go (Golang) Concurrent Systems & CLI with fractional refill algorithms and RFC 6585 compliance.",
+    "key_features": [
+      "Token bucket algorithm with high-precision fractional refill calculations",
+      "Configurable burst capacity and dynamic refill frequencies",
+      "Standard RFC 6585 HTTP rate limiting headers (X-RateLimit-Limit, Retry-After)",
+      "Self-contained test suite verifying burst and replenishment limits"
+    ],
+    "tags": [
+      "rate-limiting",
+      "security",
+      "algorithms",
+      "performance"
+    ],
+    "generated_at": "2026-09-22T03:25:26.244826+00:00"
   }
 ]
