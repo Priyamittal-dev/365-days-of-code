@@ -1,6 +1,6 @@
 # 🚀 365 Days of Code — Software Engineering Showcase
 
-![Progress](https://img.shields.io/badge/Progress-52%20%2F%20365%20Days-brightgreen?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-53%20%2F%20365%20Days-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Daily%20Commit-Active-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
 
@@ -16,11 +16,12 @@ A daily software engineering challenge dedicated to building clean, practical mi
 ---
 
 ## 📊 Progress Dashboard
-- **Completed**: `52 / 365` projects (14.2%)
-- **Last Updated**: `2026-10-16 03:14 UTC`
+- **Completed**: `53 / 365` projects (14.5%)
+- **Last Updated**: `2026-10-17 03:05 UTC`
 
 | Day | Project Title | Tech Stack | Concepts / Tags | Code Link |
 | :--- | :--- | :--- | :--- | :--- |
+| **Day 053** | [Token Bucket Rate Limiter (Python)](./projects/day-053-python-rate-limiter) | `Python / FastAPI / Async Systems` | `rate-limiting` `security` `algorithms` | [View Code](./projects/day-053-python-rate-limiter) |
 | **Day 052** | [Token Bucket Rate Limiter (PHP)](./projects/day-052-php-rate-limiter) | `PHP Modern (OOP & Micro-Service)` | `rate-limiting` `security` `algorithms` | [View Code](./projects/day-052-php-rate-limiter) |
 | **Day 051** | [Token Bucket Rate Limiter (MERN)](./projects/day-051-mern-rate-limiter) | `MERN / Node.js & React Full-Stack` | `rate-limiting` `security` `algorithms` | [View Code](./projects/day-051-mern-rate-limiter) |
 | **Day 050** | [Token Bucket Rate Limiter (TypeScript)](./projects/day-050-typescript_fullstack-rate-limiter) | `TypeScript Full-Stack & Developer Tooling` | `rate-limiting` `security` `algorithms` | [View Code](./projects/day-050-typescript_fullstack-rate-limiter) |
