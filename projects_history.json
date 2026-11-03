@@ -1447,5 +1447,26 @@
       "performance"
     ],
     "generated_at": "2026-11-02T04:33:47.278890+00:00"
+  },
+  {
+    "day": 70,
+    "title": "Token Bucket Rate Limiter (TypeScript)",
+    "slug": "typescript_fullstack-rate-limiter",
+    "tech_stack": "TypeScript Full-Stack & Developer Tooling",
+    "difficulty": "Intermediate",
+    "summary": "A resilient, thread-safe token-bucket rate limiting engine implemented in TypeScript Full-Stack & Developer Tooling with fractional refill algorithms and RFC 6585 compliance.",
+    "key_features": [
+      "Token bucket algorithm with high-precision fractional refill calculations",
+      "Configurable burst capacity and dynamic refill frequencies",
+      "Standard RFC 6585 HTTP rate limiting headers (X-RateLimit-Limit, Retry-After)",
+      "Self-contained test suite verifying burst and replenishment limits"
+    ],
+    "tags": [
+      "rate-limiting",
+      "security",
+      "algorithms",
+      "performance"
+    ],
+    "generated_at": "2026-11-03T05:27:05.512196+00:00"
   }
 ]
