@@ -1804,5 +1804,26 @@
       "performance"
     ],
     "generated_at": "2026-11-19T05:59:04.205692+00:00"
+  },
+  {
+    "day": 87,
+    "title": "Token Bucket Rate Limiter (PHP)",
+    "slug": "php-rate-limiter",
+    "tech_stack": "PHP Modern (OOP & Micro-Service)",
+    "difficulty": "Intermediate",
+    "summary": "A resilient, thread-safe token-bucket rate limiting engine implemented in PHP Modern (OOP & Micro-Service) with fractional refill algorithms and RFC 6585 compliance.",
+    "key_features": [
+      "Token bucket algorithm with high-precision fractional refill calculations",
+      "Configurable burst capacity and dynamic refill frequencies",
+      "Standard RFC 6585 HTTP rate limiting headers (X-RateLimit-Limit, Retry-After)",
+      "Self-contained test suite verifying burst and replenishment limits"
+    ],
+    "tags": [
+      "rate-limiting",
+      "security",
+      "algorithms",
+      "performance"
+    ],
+    "generated_at": "2026-11-20T05:48:25.246735+00:00"
   }
 ]
