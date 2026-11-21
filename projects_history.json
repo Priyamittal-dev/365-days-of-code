@@ -1825,5 +1825,26 @@
       "performance"
     ],
     "generated_at": "2026-11-20T05:48:25.246735+00:00"
+  },
+  {
+    "day": 88,
+    "title": "Token Bucket Rate Limiter (Python)",
+    "slug": "python-rate-limiter",
+    "tech_stack": "Python / FastAPI / Async Systems",
+    "difficulty": "Intermediate",
+    "summary": "A resilient, thread-safe token-bucket rate limiting engine implemented in Python / FastAPI / Async Systems with fractional refill algorithms and RFC 6585 compliance.",
+    "key_features": [
+      "Token bucket algorithm with high-precision fractional refill calculations",
+      "Configurable burst capacity and dynamic refill frequencies",
+      "Standard RFC 6585 HTTP rate limiting headers (X-RateLimit-Limit, Retry-After)",
+      "Self-contained test suite verifying burst and replenishment limits"
+    ],
+    "tags": [
+      "rate-limiting",
+      "security",
+      "algorithms",
+      "performance"
+    ],
+    "generated_at": "2026-11-21T05:43:22.272096+00:00"
   }
 ]
